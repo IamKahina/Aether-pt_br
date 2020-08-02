@@ -1,0 +1,1344 @@
+# Aether Blocks
+tile.aether.aether_dirt.dirt.name=Terra do Aether
+tile.aether.aether_dirt.coarse_dirt.name=Terra do Aether infértil
+tile.aether.aether_grass.normal.name=Grama da serra
+tile.aether.aether_grass.enchanted.name=Grama encantada
+tile.aether.aether_grass.arctic.name=Grama ártica
+tile.aether.aether_grass.magnetic.name=Grama magnética
+tile.aether.aether_grass.irradiated.name=Grama irradiada
+tile.aether.holystone.normal.name=Pedra sagrada
+tile.aether.holystone.mossy.name=Pedra sagrada musgosa
+tile.aether.holystone.blood_moss.name=Pedra sagrada musgosa com sangue
+tile.aether.aercloud.cold.name=Aeronuvem gelada
+tile.aether.aercloud.blue.name=Aeronuvem azul
+tile.aether.aercloud.green.name=Aeronuvem verde
+tile.aether.aercloud.golden.name=Aeronuvem dourada
+tile.aether.aercloud.storm.name=Aeronuvem tempestuosa
+tile.aether.aercloud.purple.name=Aeronuvem roxa
+tile.aether.skyroot_log.name=Madeira de raiz-celeste
+tile.aether.dark_skyroot_log.name=Madeira de raiz-grandiosa
+tile.aether.light_skyroot_log.name=Madeira de raiz-tufosa
+tile.aether.golden_oak_log.name=Madeira de raiz-de-âmbar
+tile.aether.ambrosium_ore.name=Minério de ambrósio
+tile.aether.zanite_ore.name=Minério de zanito
+tile.aether.gravitite_ore.name=Minério de gravitita
+tile.aether.arkenium_ore.name=Minério de arkênio
+tile.aether.continuum_ore.name=Minério de contínuo
+tile.aether.blue_skyroot_leaves.name=Folhas de raiz-celeste azuis
+tile.aether.green_skyroot_leaves.name=Folhas de raiz-celeste verdes
+tile.aether.dark_blue_skyroot_leaves.name=Folhas de raiz-celeste azul-escuras
+tile.aether.blue_dark_skyroot_leaves.name=Folhas de raiz-grandiosa azuis
+tile.aether.green_dark_skyroot_leaves.name=Folhas de raiz-grandiosa verdes
+tile.aether.dark_blue_dark_skyroot_leaves.name=Folhas de raiz-grandiosa azul-escuras
+tile.aether.blue_light_skyroot_leaves.name=Folhas de raiz-tufosa azuis
+tile.aether.green_light_skyroot_leaves.name=Folhas de raiz-tufosa verdes
+tile.aether.dark_blue_light_skyroot_leaves.name=Folhas de raiz-tufosa azul-escuras
+tile.aether.amberoot_leaves.name=Folhas de raiz-de-âmbar
+tile.aether.mutant_leaves.name=Folhas mutadas
+tile.aether.mutant_leaves_decorated.name=Folhas mutadas decoradas
+tile.aether.tall_aether_grass.short.name=Grama curta da serra
+tile.aether.tall_aether_grass.normal.name=Grama da serra
+tile.aether.tall_aether_grass.long.name=Grama alta da serra
+tile.aether.quicksoil.name=Solo rápido
+tile.aether.ferrosite_sand.name=Areia de ferrosita
+tile.aether.aether_crafting_table.name=Bancada de trabalho de raiz-celeste
+tile.aether.skyroot_trapdoor.name=Alçapão de raiz-celeste
+tile.aether.secret_skyroot_trapdoor.name=Alçapão de raiz-celeste secreto
+tile.aether.skyroot_ladder.name=Escada de raiz-celeste
+tile.aether.skyroot_pressure_plate.name=Placa de pressão de raiz-celeste
+tile.aether.wisproot_pressure_plate.name=Placa de pressão de raiz-tufosa
+tile.aether.greatroot_pressure_plate.name=Placa de pressão de raiz-grandiosa
+tile.aether.skyroot_button.name=Botão de raiz-celeste
+tile.aether.wisproot_button.name=Botão de raiz-tufosa
+tile.aether.greatroot_button.name=Botão de raiz-grandiosa
+tile.aether.holystone_pressure_plate.name=Placa de pressão de pedra sagrada
+tile.aether.holystone_button.name=Botão de pedra sagrada
+tile.aether.blueberry_bush.ripe.name=Arbusto de mirtilo
+tile.aether.blueberry_bush.stem.name=Muda de arbusto de mirtilo
+tile.aether.enchanted_blueberry_bush.ripe.name=Arbusto de mirtilo encantado
+tile.aether.enchanted_blueberry_bush.stem.name=Muda de arbusto de mirtilo encantado
+tile.aether.orange_tree.name=Laranjeira
+tile.aether.aether_flower.purple_flower.name=Flor roxa
+tile.aether.aether_flower.white_rose.name=Rosa branca
+tile.aether.aether_flower.burstblossom.name=Flor esplêndida
+tile.aether.aether_flower.aechor_sprout.name=Broto de aechor
+tile.aether.altar.name=Altar
+tile.aether.icestone_ore.name=Minério de pedra gelada
+tile.aether.icestone_bricks.name=Tijolos de pedra gelada
+tile.aether.icestone_bricks_decorative.name=Tijolos de pedra gelada decorativos
+tile.aether.icestone_bricks_decorative.base_bricks.name=Tijolo da base
+tile.aether.icestone_bricks_decorative.base_pillar.name=Pilar da base
+tile.aether.icestone_bricks_decorative.keystone.name=Pedra angular
+tile.aether.icestone_bricks_decorative.capstone_bricks.name=Tijolo do topo
+tile.aether.icestone_bricks_decorative.capstone_pillar.name=Pilar do topo
+tile.aether.icestone_bricks_decorative.flagstones.name=Ladrilhos
+tile.aether.icestone_bricks_decorative.headstone.name=Pedra talhada
+tile.aether.icestone_pillar.name=Pilar de tijolos de pedra gelada
+tile.aether.crude_scatterglass.name=Vidro disperso cru
+tile.aether.crude_scatterglass_decorative.name=Vidro disperso cru decorativo
+tile.aether.crude_scatterglass_decorative.skyroot_frame.name=Armação de raiz-celeste
+tile.aether.crude_scatterglass_decorative.arkenium_frame.name=Armação de arkênio
+tile.aether.scatterglass.name=Vidro disperso
+tile.aether.scatterglass_decorative.name=Vidro disperso decorativo
+tile.aether.scatterglass_decorative.arkenium_frame.name=Armação de arkênio
+tile.aether.scatterglass_decorative.skyroot_frame.name=Armação de raiz-celeste
+tile.aether.quicksoil_glass.name=Vidro de solo rápido
+tile.aether.quicksoil_glass_decorative.name=Vidro de solo rápido decorativo
+tile.aether.quicksoil_glass_decorative.arkenium_frame.name=Armação de arkênio
+tile.aether.quicksoil_glass_decorative.skyroot_frame.name=Armação de raiz-celeste
+tile.aether.zanite_block.name=Bloco de zanito
+tile.aether.skyroot_sapling.blue_skyroot.name=Muda de raiz-celeste azul
+tile.aether.skyroot_sapling.green_skyroot.name=Muda de raiz-celeste verde
+tile.aether.skyroot_sapling.dark_blue_skyroot.name=Muda de raiz-celeste azul-escura
+tile.aether.unique_sapling.amberoot.name=Muda de raiz-de-âmbar
+tile.aether.unique_sapling.mutant_tree.name=Muda da árvore mutante e maluca do Edison
+tile.aether.wisproot_sapling.wisproot_green.name=Muda de raiz-tufosa verde
+tile.aether.wisproot_sapling.wisproot_blue.name=Muda de raiz-tufosa azul
+tile.aether.wisproot_sapling.wisproot_dark_blue.name=Muda de raiz-tufosa azul-escura
+tile.aether.greatroot_sapling.green_greatroot.name=Muda de raiz-grandiosa verde
+tile.aether.greatroot_sapling.blue_greatroot.name=Muda de raiz-grandiosa azul
+tile.aether.greatroot_sapling.dark_blue_greatroot.name=Muda de raiz-grandiosa azul-escura
+tile.aether.carved_stone.normal.name=Pedra esculpida
+tile.aether.carved_stone.divine.name=Pedra esculpida divina
+tile.aether.sentry_stone.normal.name=Pedra de sentinela
+tile.aether.sentry_stone.divine.name=Pedra de sentinela divina
+tile.aether.gravitite_block.name=Bloco de gravitita
+tile.aether.holystone_furnace.name=Fornalha de pedra sagrada
+tile.aether.skyroot_chest.name=Baú de raiz-celeste
+tile.aether.ambrosium_torch.name=Tocha de ambrósio
+tile.aether.skyroot_fence.name=Cerca de raiz-celeste
+tile.aether.skyroot_fence_gate.name=Portão de raiz-celeste
+tile.aether.wisproot_fence.name=Cerca de raiz-tufosa
+tile.aether.wisproot_fence_gate.name=Portão de raiz-tufosa
+tile.aether.greatroot_fence.name=Cerca de raiz-grandiosa
+tile.aether.greatroot_fence_gate.name=Portão de raiz-grandiosa
+tile.aether.therawood_fence.name=Cerca de madeira de Thera
+tile.aether.therawood_fence_gate.name=Portão de madeira de Thera
+tile.aether.holystone_wall.name=Muro de pedra sagrada
+tile.aether.mossy_holystone_wall.name=Muro de pedra sagrada musgosa
+tile.aether.carved_stone_wall.name=Muro de pedra esculpida
+tile.aether.icestone_wall.name=Muro de tijolos de pedra gelada
+tile.aether.skyroot_log_wall.name=Muro de madeira de raiz-celeste
+tile.aether.scatterglass_wall.name=Muro de vidro disperso
+tile.aether.holystone_brick_wall.name=Muro de tijolos de pedra sagrada
+tile.aether.sentry_stone_wall.name=Muro de pedra de sentinela
+tile.aether.divine_sentry_wall.name=Muro de pedra do sentinela divina
+tile.aether.divine_stone_wall.name=Muro de pedra divina
+tile.aether.wisproot_log_wall.name=Muro de madeira de raiz-tufosa
+tile.aether.greatroot_log_wall.name=Muro de madeira de raiz-celeste
+tile.aether.therawood_log_wall.name=Muro de tronco de madeira de Thera
+tile.aether.agiosite_wall.name=Muro de agiosita
+tile.aether.agiosite_brick_wall.name=Muro de tijolos de agiosita
+tile.aether.faded_holystone_brick_wall.name=Muro de tijolos de pedra sagrada desgastada
+tile.aether.sentrystone_brick_wall.name=Muro de tijolos de pedra de sentinela
+tile.aether.hellfirestone_brick_wall.name=Muro de tijolos de pedra infernal
+tile.aether.therastone_brick_wall.name=Muro de tijolos de pedra de Thera
+tile.aether.labyrinth_totem.name=Totem do labirinto
+tile.aether.labyrinth_capstone.name=Pedra do topo do labirinto
+tile.aether.labyrinth_glowing_pillar.name=Pilar do labirinto brilhante
+tile.aether.labyrinth_pillar.name=Pilar do labirinto
+tile.aether.labyrinth_wall.name=Muro do labirinto
+tile.aether.labyrinth_lightstone.name=Pedra iluminada do labirinto
+tile.aether.labyrinth_base.name=Pedra da base do labirinto
+tile.aether.labyrinth_headstone.name=Pedra talhada do labirinto
+tile.aether.labyrinth_eye.name=Olho do labirinto
+tile.aether.labyrinth_chest.name=Baú do labirinto
+tile.aether.skyroot_slab.name=Laje de raiz-celeste
+tile.aether.wisproot_slab.name=Laje de raiz-tufosa
+tile.aether.greatroot_slab.name=Laje de raiz-grandiosa
+tile.aether.therawood_slab.name=Laje de madeira de Thera
+tile.aether.holystone_slab.name=Laje de pedra sagrada
+tile.aether.holystone_brick_slab.name=Laje de tijolos de pedra sagrada
+tile.aether.therastone_brick_slab.name=Laje de tijolos de pedra de Thera
+tile.aether.carved_stone_slab.name=Laje de pedra esculpida
+tile.aether.divine_carved_stone_slab.name=Laje de pedra esculpida divina
+tile.aether.sentry_stone_slab.name=Laje de pedra de sentinela
+tile.aether.divine_sentry_stone_slab.name=Laje de pedra de sentinela divina
+tile.aether.icestone_slab.name=Laje de tijolos de pedra gelada
+tile.aether.mossy_holystone_slab.name=Laje de pedra sagrada musgosa
+tile.aether.faded_holystone_brick_slab.name=Laje de tijolos de pedra sagrada desgastada
+tile.aether.agiosite_slab.name=Laje de agiosita
+tile.aether.agiosite_brick_slab.name=Laje de tijolos de agiosita
+tile.aether.scatterglass_slab.name=Laje de vidro disperso
+tile.aether.sentrystone_brick_slab.name=Laje de tijolos de pedra de sentinela
+tile.aether.hellfirestone_brick_slab.name=Laje de tijolos de pedra infernal
+tile.aether.labyrinth_capstone_slab.name=Laje de pedra do topo do labirinto
+tile.aether.labyrinth_wall_slab.name=Laje de parede do labirinto
+tile.aether.labyrinth_strongblock.name=Bloco forte do labirinto
+tile.aether.skyroot_stairs.name=Escadas de raiz-celeste
+tile.aether.wisproot_stairs.name=Escadas de raiz-tufosa
+tile.aether.greatroot_stairs.name=Escadas de raiz-grandiosa
+tile.aether.therawood_stairs.name=Escadas de madeira de Thera
+tile.aether.holystone_stairs.name=Escadas de pedra sagrada
+tile.aether.mossy_holystone_stairs.name=Escadas de pedra sagrada musgosa
+tile.aether.holystone_brick_stairs.name=Escadas de tijolos de pedra sagrada
+tile.aether.therastone_brick_stairs.name=Escadas de tijolos de pedra de Thera
+tile.aether.sentry_stone_stairs.name=Escadas de pedra de sentinela
+tile.aether.divine_sentry_stone_stairs.name=Escadas de pedra de sentinela divina
+tile.aether.carved_stone_stairs.name=Escadas de pedra talhada
+tile.aether.divine_carved_stone_stairs.name=Escadas de pedra talhada divina
+tile.aether.cloudwool_block.name=Lã de nuvem
+tile.aether.woven_sticks.skyroot.name=Gravetos de raiz-celeste entrelaçados
+tile.aether.moa_egg.name=Ovo de moa
+tile.aether.icestone_brick_stairs.name=Escadas de tijolos de pedra gelada
+tile.aether.scatterglass_stairs.name=Escadas de vidro disperso
+tile.aether.faded_holystone_brick_stairs.name=Escadas de tijolos de pedra sagrada desgastada
+tile.aether.agiosite_stairs.name=Escadas de agiosita
+tile.aether.agiosite_brick_stairs.name=Escadas de tijolos de agiosita
+tile.aether.sentrystone_brick_stairs.name=Escadas de tijolos de pedra de sentinela
+tile.aether.hellfirestone_brick_stairs.name=Escadas de tijolos de pedra infernal
+tile.aether.burstblossom.name=Flor de cristais
+tile.aether.moonlit_bloom.name=Flor da lua
+tile.aether.icestone_cooler.name=Refrigerador de pedra gelada
+tile.aether.incubator.name=Incubadora
+tile.aether.present.name=Presente
+tile.aether.labyrinth_container.small.name=Recipiente do labirinto pequeno
+tile.aether.labyrinth_container.large.name=Recipiente do labirinto grande
+tile.aether.unstable_labyrinth_capstone.name=Bloco do topo do labirinto instável
+tile.aether.wildcard.name=Wildcard
+tile.aether.masonry_bench.name=Mesa de alvenaria
+tile.aether.holystone_brick.name=Tijolos de pedra sagrada
+tile.aether.holystone_brick_decorative.name=Tijolos de pedra sagrada decorativos
+tile.aether.holystone_brick_decorative.base_bricks.name=Tijolo da base
+tile.aether.holystone_brick_decorative.base_pillar.name=Base do pilar
+tile.aether.holystone_brick_decorative.keystone.name=Pedra angular
+tile.aether.holystone_brick_decorative.capstone_bricks.name=Tijolo do topo
+tile.aether.holystone_brick_decorative.capstone_pillar.name=Topo do pilar
+tile.aether.holystone_brick_decorative.flagstones.name=Ladrilhos
+tile.aether.holystone_brick_decorative.headstone.name=Pedra talhada
+tile.aether.holystone_pillar.name=Pilar de tijolos de pedra sagrada
+tile.aether.sentrystone_brick.name=Tijolos de pedra de sentinela
+tile.aether.sentrystone_brick_decorative.name=Tijolos de pedra de sentinela decorativos
+tile.aether.sentrystone_brick_decorative.base_bricks.name=Tijolo da base
+tile.aether.sentrystone_brick_decorative.base_pillar.name=Pilar da base
+tile.aether.sentrystone_brick_decorative.keystone.name=Pedra angular
+tile.aether.sentrystone_brick_decorative.capstone_bricks.name=Tijolo do topo
+tile.aether.sentrystone_brick_decorative.capstone_pillar.name=Pilar do topo
+tile.aether.sentrystone_brick_decorative.flagstones.name=Ladrilhos
+tile.aether.sentrystone_brick_decorative.lightstone.name=Pedra branda
+tile.aether.sentrystone_pillar.name=Pilar de tijolos de pedra de sentinela
+tile.aether.sentrystone_brick_decorative_lit.name=Tijolos de pedra sentinela decorativos acesos
+tile.aether.sentrystone_brick_decorative_lit.base_bricks.name=Tijolo da base aceso
+tile.aether.sentrystone_brick_decorative_lit.base_pillar.name=Pilar da base aceso
+tile.aether.sentrystone_brick_decorative_lit.keystone.name=Pedra angular acesa
+tile.aether.sentrystone_brick_decorative_lit.capstone_bricks.name=Tijolo do topo aceso
+tile.aether.sentrystone_brick_decorative_lit.capstone_pillar.name=Pilar do topo aceso
+tile.aether.sentrystone_brick_decorative_lit.lightstone.name=Pedra branda acesa
+tile.aether.sentrystone_pillar_lit.name=Pilar de tijolos de pedra de sentinela acesos
+tile.aether.hellfirestone_brick.name=Tijolos de pedra infernal
+tile.aether.hellfirestone_brick_decorative.name=Tijolos de pedra infernal decorativos
+tile.aether.hellfirestone_brick_decorative.base_bricks.name=Tijolo da base
+tile.aether.hellfirestone_brick_decorative.base_pillar.name=Pilar da base
+tile.aether.hellfirestone_brick_decorative.keystone.name=Pedra angular
+tile.aether.hellfirestone_brick_decorative.capstone_bricks.name=Tijolo do topo
+tile.aether.hellfirestone_brick_decorative.capstone_pillar.name=Pilar do topo
+tile.aether.hellfirestone_brick_decorative.flagstones.name=Ladrilhos
+tile.aether.hellfirestone_lantern.name=Lanterna de pedra infernal
+tile.aether.hellfirestone_pillar.name=Pilar de tijolos de pedra infernal
+tile.aether.faded_holystone_brick.name=Tijolos de pedra sagrada desgastada
+tile.aether.faded_holystone_brick_decorative.name=Decorative Faded Holystone Bricks
+tile.aether.faded_holystone_brick_decorative.base_bricks.name=Base Bricks
+tile.aether.faded_holystone_brick_decorative.base_pillar.name=Base Pillar
+tile.aether.faded_holystone_brick_decorative.keystone.name=Keystone
+tile.aether.faded_holystone_brick_decorative.capstone_bricks.name=Capstone Bricks
+tile.aether.faded_holystone_brick_decorative.capstone_pillar.name=Capstone Pillar
+tile.aether.faded_holystone_brick_decorative.flagstones.name=Flagstones
+tile.aether.faded_holystone_brick_decorative.headstone.name=Headstone
+tile.aether.faded_holystone_pillar.name=Faded Holystone Brick Pillar
+tile.aether.therastone_brick.name=Therastone Bricks
+tile.aether.therastone_brick_decorative.name=Decorative Therastone Bricks
+tile.aether.therastone_brick_decorative.base_bricks.name=Base Bricks
+tile.aether.therastone_brick_decorative.base_pillar.name=Base Pillar
+tile.aether.therastone_brick_decorative.keystone.name=Keystone
+tile.aether.therastone_brick_decorative.capstone_bricks.name=Capstone Bricks
+tile.aether.therastone_brick_decorative.capstone_pillar.name=Capstone Pillar
+tile.aether.therastone_brick_decorative.flagstones.name=Flagstones
+tile.aether.therastone_brick_decorative.headstone.name=Headstone
+tile.aether.therastone_pillar.name=Therastone Pillar
+tile.aether.agiosite.name=Agiosite
+tile.aether.agiosite_brick.name=Agiosite Bricks
+tile.aether.agiosite_brick_decorative.name=Decorative Agiosite Bricks
+tile.aether.agiosite_brick_decorative.base_bricks.name=Base Bricks
+tile.aether.agiosite_brick_decorative.base_pillar.name=Base Pillar
+tile.aether.agiosite_brick_decorative.keystone.name=Keystone
+tile.aether.agiosite_brick_decorative.capstone_bricks.name=Capstone Bricks
+tile.aether.agiosite_brick_decorative.capstone_pillar.name=Capstone Pillar
+tile.aether.agiosite_brick_decorative.flagstones.name=Flagstones
+tile.aether.agiosite_pillar.name=Agiosite Brick Pillar
+tile.aether.therawood_planks.name=Therawood Planks
+tile.aether.therawood_decorative.name=Decorative Therawood
+tile.aether.therawood_decorative.base_planks.name=Base Planks
+tile.aether.therawood_decorative.base_beam.name=Base Beam
+tile.aether.therawood_decorative.highlight.name=Highlight
+tile.aether.therawood_decorative.top_planks.name=Top Planks
+tile.aether.therawood_decorative.top_beam.name=Top Beam
+tile.aether.therawood_decorative.floorboards.name=Floorboards
+tile.aether.therawood_beam.name=Therawood Beam
+tile.aether.therawood_log.name=Therawood Log
+tile.aether.therawood_leaves.name=Therawood Leaves
+tile.aether.skyroot_planks.name=Skyroot Planks
+tile.aether.skyroot_decorative.name=Decorative Skyroot Planks
+tile.aether.skyroot_decorative.base_planks.name=Base Planks
+tile.aether.skyroot_decorative.base_beam.name=Base Beam
+tile.aether.skyroot_decorative.highlight.name=Highlight
+tile.aether.skyroot_decorative.top_planks.name=Top Planks
+tile.aether.skyroot_decorative.top_beam.name=Top Beam
+tile.aether.skyroot_decorative.floorboards.name=Floorboards
+tile.aether.skyroot_decorative.tiles.name=Tiles
+tile.aether.skyroot_decorative.tiles_small.name=Small Tiles
+tile.aether.skyroot_beam.name=Skyroot Beam
+tile.aether.dark_skyroot_planks.name=Greatroot Planks
+tile.aether.dark_skyroot_decorative.name=Decorative Greatroot Planks
+tile.aether.dark_skyroot_decorative.base_planks.name=Base Planks
+tile.aether.dark_skyroot_decorative.base_beam.name=Base Beam
+tile.aether.dark_skyroot_decorative.highlight.name=Highlight
+tile.aether.dark_skyroot_decorative.top_planks.name=Top Planks
+tile.aether.dark_skyroot_decorative.top_beam.name=Top Beam
+tile.aether.dark_skyroot_decorative.floorboards.name=Floorboards
+tile.aether.dark_skyroot_decorative.tiles.name=Tiles
+tile.aether.dark_skyroot_decorative.tiles_small.name=Small Tiles
+tile.aether.dark_skyroot_beam.name=Greatroot Beam
+tile.aether.light_skyroot_planks.name=Wisproot Planks
+tile.aether.light_skyroot_decorative.name=Decorative Wisproot Planks
+tile.aether.light_skyroot_decorative.base_planks.name=Base Planks
+tile.aether.light_skyroot_decorative.base_beam.name=Base Beam
+tile.aether.light_skyroot_decorative.highlight.name=Highlight
+tile.aether.light_skyroot_decorative.top_planks.name=Top Planks
+tile.aether.light_skyroot_decorative.top_beam.name=Top Beam
+tile.aether.light_skyroot_decorative.floorboards.name=Floorboards
+tile.aether.light_skyroot_decorative.tiles.name=Tiles
+tile.aether.light_skyroot_decorative.tiles_small.name=Small Tiles
+tile.aether.light_skyroot_beam.name=Wisproot Beam
+tile.aether.quicksoil_glass_pane.name=Quicksoil Glass Pane
+tile.aether.quicksoil_glass_pane_decorative.name=Decorative Quicksoil Glass Pane
+tile.aether.quicksoil_glass_pane_decorative.arkenium_frame.name=Arkenium Frame
+tile.aether.quicksoil_glass_pane_decorative.skyroot_frame.name=Skyroot Frame
+tile.aether.arkenium_frame.name=Arkenium Frame
+tile.aether.skyroot_frame.name=Skyroot Frame
+tile.aether.scatterglass_pane.name=Scatterglass Pane
+tile.aether.scatterglass_pane_decorative.name=Decorative Scatterglass Pane
+tile.aether.scatterglass_pane_decorative.arkenium_frame.name=Arkenium Frame
+tile.aether.scatterglass_pane_decorative.skyroot_frame.name=Skyroot Frame
+tile.aether.skyroot_twigs.name=Skyroot Twigs
+tile.aether.holystone_rock.name=Holystone Rock
+tile.aether.crude_scatterglass_pane.name=Crude Scatterglass Pane
+tile.aether.crude_scatterglass_pane_decorative.name=Decorative Crude Scatterglass Pane
+tile.aether.crude_scatterglass_pane_decorative.arkenium_frame.name=Arkenium Frame
+tile.aether.crude_scatterglass_pane_decorative.skyroot_frame.name=Skyroot Frame
+tile.aether.cloudwool_carpet.name=Cloudwool Carpet
+tile.aether.skyroot_bookshelf.name=Skyroot Bookshelf
+tile.aether.holystone_bookshelf.name=Holystone Bookshelf
+tile.aether.outpost_campfire.name=Outpost Campfire
+tile.aether.valkyrie_grass.sprout.name=Valkyrie Grass Sprout
+tile.aether.valkyrie_grass.full.name=Valkyrie Grass
+tile.aether.aether_teleporter.name=Aether Portal
+tile.aether.thera_dirt.dirt.name=Thera Dirt
+tile.aether.thera_grass.normal.name=Thera Grass
+tile.aether.ferrosite.name=Ferrosite
+tile.aether.rusted_ferrosite.name=Rusted Ferrosite
+tile.aether.highlands_snow.name=Highlands Snow
+tile.aether.highlands_snow_layer.name=Highlands Snow
+tile.aether.highlands_ice.name=Highlands Ice
+tile.aether.highlands_packed_ice.name=Highlands Packed Ice
+tile.aether.plumproot.name=Plumproot
+tile.aether.highlands_ice_crystal.stalagmite.name=Ice Crystal
+tile.aether.candy_cane_block.name=Candy Cane Block
+tile.aether.candy_cane_wall.name=Candy Cane Wall
+tile.aether.arctic_spikespring.name=Arctic Spikespring
+tile.aether.barkshroom.name=Barkshroom
+tile.aether.blue_swingtip.name=Blue Swingtip
+tile.aether.forgotten_rose.name=Forgotten Rose
+tile.aether.green_swingtip.name=Green Swingtip
+tile.aether.highlands_bush.name=Highlands Bush
+tile.aether.highlands_tulips.name=Highlands Tulips
+tile.aether.irradiated_flower.name=Irradiated Flower
+tile.aether.magnetic_shroom.name=Magnetic Shroom
+tile.aether.neverbloom.name=Neverbloom
+tile.aether.pink_swingtip.name=Pink Swingtip
+tile.aether.quickshoot.name=Quickshoot
+tile.aether.stoneshroom.name=Stoneshroom
+
+# Aether Items
+item.aether.skyroot_stick.name=Graveto de raiz-celeste
+item.aether.cloudtwine.name=Fio de nuvem
+item.aether.moa_feather.name=Pena de moa
+item.aether.cockatrice_feather.name=Pena de cocatrice
+item.aether.ambrosium_shard.name=Fragmento de ambrósio
+item.aether.ambrosium_chunk.name=Pedaço de ambrósio
+item.aether.zanite_gemstone.name=Gema de zanito
+item.aether.continuum_orb.name=Orbe contínuo
+item.aether.arkenium.name=Placa de arkênio
+item.aether.arkenium_strip.name=Tira de arkênio
+item.aether.skyroot_pickaxe.name=Picareta de raiz-celeste
+item.aether.skyroot_axe.name=Machado de raiz=celeste
+item.aether.skyroot_shovel.name=Pá de raiz=celeste
+item.aether.skyroot_sword.name=Espada de raiz=celeste
+item.aether.holystone_pickaxe.name=Picareta de pedra sagrada
+item.aether.holystone_axe.name=Machado de pedra sagrada
+item.aether.holystone_shovel.name=Pá de pedra sagrada
+item.aether.holystone_sword.name=Espada de pedra sagrada
+item.aether.zanite_pickaxe.name=Picareta de zanito
+item.aether.zanite_axe.name=Machado de zanito
+item.aether.zanite_shovel.name=Pá de zanito
+item.aether.zanite_sword.name=Espada de zanito
+item.aether.gravitite_pickaxe.name=Picareta de gravitita
+item.aether.gravitite_axe.name=Machado de gravitita
+item.aether.gravitite_sword.name=Espada de gravitita
+item.aether.gravitite_shovel.name=Pá de gravitita
+item.aether.arkenium_pickaxe.name=Picareta de arkênio
+item.aether.arkenium_axe.name=Machado de arkênio
+item.aether.arkenium_shovel.name=Pá de arkênio
+item.aether.arkenium_sword.name=Espada de arkênio
+item.aether.arkenium_shears.name=Tesoura de arkênio
+item.aether.taegore_hide_helmet.name=Capuz de pele de taegore
+item.aether.taegore_hide_chestplate.name=Casaco de pele de taegore
+item.aether.taegore_hide_leggings.name=Calças de pele de taegore
+item.aether.taegore_hide_boots.name=Botas de pele de taegore
+item.aether.burrukai_pelt_helmet.name=Capuz de couro de burrukai
+item.aether.burrukai_pelt_chestplate.name=Casaco de couro de burrukai
+item.aether.burrukai_pelt_leggings.name=Calças de couro de burrukai
+item.aether.burrukai_pelt_boots.name=Botas de couro de burrukai
+item.aether.zanite_helmet.name=Elmo de zanito
+item.aether.zanite_chestplate.name=Peitoral de zanito
+item.aether.zanite_leggings.name=Calças de zanito
+item.aether.zanite_boots.name=Botas de zanito
+item.aether.arkenium_helmet.name=Elmo de arkênio
+item.aether.arkenium_chestplate.name=Peitoral de arkênio
+item.aether.arkenium_leggings.name=Calças de arkênio
+item.aether.arkenium_boots.name=Botas de arkênio
+item.aether.gravitite_helmet.name=Elmo de gravitita
+item.aether.gravitite_chestplate.name=Peitoral de gravitita
+item.aether.gravitite_leggings.name=Calças de gravitita
+item.aether.gravitite_boots.name=Botas de gravitita
+item.aether.golden_amber.name=Âmbar dourado
+item.aether.aechor_petal.name=Pétala de aechor
+item.aether.blueberries.name=Mirtilos
+item.aether.enchanted_blueberry.name=Mirtilos encantados
+item.aether.orange.name=Laranja
+item.aether.wyndberry.name=Fruto ventoso
+item.aether.candy_corn.name=Milho doce
+item.aether.cocoatrice.name=Chocatrice
+item.aether.jelly_plumproot.name=Raiz roliça com geléia
+item.aether.stomper_pop.name=Pirulito de pisoteador
+item.aether.blueberry_lollipop.name=Pirulito de mirtilo
+item.aether.orange_lollipop.name=Pirulito de laranja
+item.aether.icestone_poprocks.name=Balas explosivas de pedra gelada
+item.aether.ginger_bread_man.name=Homem de gengibre
+item.aether.candy_cane.name=Bengala doce
+item.aether.yule_log.name=Rocambole
+item.aether.wrapped_chocolates.name=Chocolates embrulhados
+item.aether.enchanted_wyndberry.name=Fruto ventoso encantado
+item.aether.swet_jelly.blue.name=Geléia de swet azul
+item.aether.swet_jelly.green.name=Geléia de swet verde
+item.aether.swet_jelly.purple.name=Geléia de swet roxa
+item.aether.swet_gel.blue.name=Gel de swet azul
+item.aether.swet_gel.green.name=Gel de swet verde
+item.aether.swet_gel.purple.name=Gel de swet roxo
+item.aether.swet_sugar.name=Açúcar de swet
+item.aether.skyroot_bucket.name=Balde de raiz-celeste
+item.aether.skyroot_water_bucket.name=Balde de raiz-celeste com água
+item.aether.skyroot_milk_bucket.name=Balde de raiz-celeste com leite
+item.aether.skyroot_poison_bucket.name=Balde de raiz-celeste com veneno
+item.aether.valkyrie_music_disc.name=Disco de música da Valquíria
+item.aether.labyrinth_music_disc.name=Disco de música do labirinto
+item.aether.moa_music_disc.name=Disco de música da moa
+item.aether.aerwhale_music_disc.name=Disco de música da aerobaleia
+item.aether.recording_892.name=Gravação #892
+item.aether.healing_stone.name=Pedra de cura
+item.aether.healing_stone_depleted.name=Pedra de cura esgotada
+item.aether.dart_shooter.golden.name=Atirador de dardos dourados
+item.aether.dart_shooter.enchanted.name=Atirador de dardos encantados
+item.aether.dart_shooter.poison.name=Atirador de dardos venenosos
+item.aether.dart.golden.name=Dardo dourado
+item.aether.dart.enchanted.name=Dardo encantado
+item.aether.dart.poison.name=Dardo venenoso
+item.aether.cloud_parachute.cold.name=Paraquedas de nuvem fria
+item.aether.cloud_parachute.blue.name=Paraquedas de nuvem azul
+item.aether.cloud_parachute.purple.name=Paraquedas de nuvem roxa
+item.aether.aether_saddle.name=Sela de moa
+item.aether.skyroot_door_item.name=Porta de raiz-celeste
+item.aether.secret_skyroot_door_item.name=Porta de raiz-celeste secreta
+item.aether.arkenium_door_item.name=Porta de arkênio
+item.aether.taegore_hide_gloves.name=Luvas de pele de taegore
+item.aether.burrukai_pelt_gloves.name=Luvas de couro de burrukai
+item.aether.icestone.name=Pedra gelada
+item.aether.skyroot_sign.name=Placa de raiz-celeste
+item.aether.zanite_gloves.name=Braceletes de zanito
+item.aether.arkenium_gloves.name=Manoplas de arkênio
+item.aether.gravitite_gloves.name=Manoplas de gravitita
+item.aether.shard_of_life.name=Fragmento de saúde
+item.aether.skyroot_shield.name=Escudo de raiz-celeste
+item.aether.holystone_shield.name=Escudo de pedra sagrada
+item.aether.zanite_shield.name=Escudo de zanito
+item.aether.arkenium_shield.name=Escudo de arkênio
+item.aether.gravitite_shield.name=Escudo de gravitita
+item.aether.plumproot_mash.name=Purê de raiz roliça
+item.aether.plumproot_pie.name=Torta de raiz roliça
+item.aether.winter_hat.name=Chapéu de inverno
+item.aether.eggnog.name=Gemada
+item.aether.scatterglass_vial.name=Frasco de vidro disperso
+item.aether.water_vial.name=Frasco de água
+item.aether.antivenom_vial.name=Frasco de antiveneno
+item.aether.antitoxin_vial.name=Frasco com antídoto
+item.aether.bandage.name=Bandagem
+item.aether.splint.name=Tala
+item.aether.crude_scatterglass_shard.name=Caco de vidro disperso
+item.aether.valkyrie_tea.name=Chá de Valquíria
+item.aether.skyroot_pinecone.name=Pinha de raiz-celeste
+item.aether.moa_feed.name=Ração para moa
+item.aether.moa_feed_blueberries.name=Ração para moa de mirtilo
+item.aether.moa_feed_enchanted_blueberries.name=Ração para moa encantada
+item.aether.brettl_rope.name=Corda de brettl
+
+item.aether.skyroot_bed_item.name=Cama de raiz-celeste
+item.aether.moa_egg_item.name=Ovo de moa
+item.aether.rainbow_moa_egg.name=Ovo de moa arco-íris
+
+item.aether.cold_cloud_parachute.name=Paraquedas de nuvem fria
+item.aether.purple_cloud_parachute.name=Paraquedas de nuvem roxa
+item.aether.blue_cloud_parachute.name=Paraquedas de nuvem azul
+
+item.aether.irradiated_chunk.name=Pedaço irradiado
+item.aether.irradiated_sword.name=Espada irradiada
+item.aether.irradiated_armor.name=Armadura irradiada
+item.aether.irradiated_tool.name=Ferramenta irradiada
+item.aether.irradiated_ring.name=Anel irradiado
+item.aether.irradiated_neckwear.name=Colar irradiado
+item.aether.irradiated_charm.name=Charme irradiado
+item.aether.irradiated_dust.name=Pó irradiado
+
+item.aether.skyroot_crossbow.name=Besta de raiz-celeste
+item.aether.holystone_crossbow.name=Besta de pedra sagrada
+item.aether.zanite_crossbow.name=Besta de zanito
+item.aether.arkenium_crossbow.name=Besta de arkênio
+item.aether.gravitite_crossbow.name=Besta de gravitita
+item.aether.bolt.name=Flecha de vidro disperso
+item.aether.wrapping_paper.name=Papel de embrulho
+item.aether.fried_moa_egg.name=Ovo de moa frito
+item.aether.aether_spawn_egg.name=Gerar
+item.aether.arkenium_ore_item.name=Minério de arkênio
+item.aether.gravitite_ore_item.name=Minério de gravitita
+item.aether.gravitite_plate.name=Placa de gravitita
+item.aether.raw_taegore_meat.name=Perna de taegore
+item.aether.taegore_steak.name=Taegore assado
+item.aether.skyroot_lizard_stick.name=Lagarto da raiz-celeste no graveto
+item.aether.skyroot_lizard_stick_roasted.name=Lagarto da raiz-celeste assado no graveto
+item.aether.taegore_hide.name=Pele de taegore
+item.aether.burrukai_rib_cut.name=Costela de burrukai
+item.aether.burrukai_ribs.name=Costela de burrukai assada
+item.aether.burrukai_pelt.name=Couro de burrukai
+item.aether.kirrid_loin.name=Lombo de kirrid
+item.aether.kirrid_cutlet.name=Costeleta de kirrid
+item.aether.valkyrie_wings.name=Asas de Valquíria
+item.aether.brettl_cane.name=Cana de brettl
+item.aether.brettl_grass.name=Relva de brettl
+item.aether.wrapping_paper.bow.black.name=Laço preto
+item.aether.wrapping_paper.bow.red.name=Laço vermelho
+item.aether.wrapping_paper.bow.green.name=Laço verde
+item.aether.wrapping_paper.bow.brown.name=Laço marrom
+item.aether.wrapping_paper.bow.blue.name=Laço azul
+item.aether.wrapping_paper.bow.purple.name=Laço roxo
+item.aether.wrapping_paper.bow.cyan.name=Laço ciano
+item.aether.wrapping_paper.bow.pink.name=Laço rosa
+item.aether.wrapping_paper.bow.lime.name=Laço verde-limão
+item.aether.wrapping_paper.bow.yellow.name=Laço amarelo
+item.aether.wrapping_paper.bow.light_blue.name=Laço azul-claro
+item.aether.wrapping_paper.bow.magenta.name=Laço magenta
+item.aether.wrapping_paper.bow.orange.name=Laço laranja
+item.aether.wrapping_paper.bow.white.name=Laço branco
+item.aether.wrapping_paper.box.black.name=Caixa preta
+item.aether.wrapping_paper.box.red.name=Caixa vermelha
+item.aether.wrapping_paper.box.green.name=Caixa verde
+item.aether.wrapping_paper.box.brown.name=Caixa marrom
+item.aether.wrapping_paper.box.blue.name=Caixa azul
+item.aether.wrapping_paper.box.purple.name=Caixa roxa
+item.aether.wrapping_paper.box.cyan.name=Caixa ciano
+item.aether.wrapping_paper.box.pink.name=Caixa rosa
+item.aether.wrapping_paper.box.lime.name=Caixa verde-limão
+item.aether.wrapping_paper.box.yellow.name=Caixa amarela
+item.aether.wrapping_paper.box.light_blue.name=Caixa azul-clara
+item.aether.wrapping_paper.box.magenta.name=Caixa magenta
+item.aether.wrapping_paper.box.orange.name=Caixa laranja
+item.aether.wrapping_paper.box.white.name=Caixa branca
+item.aether.wrapping_paper.tooltip.craft=Combine com itens!
+item.aether.present.tooltip.empty=Vazio
+item.aether.present.tooltip.hasitem=Contém itens!
+
+
+tile.aether.aether_portal.name=Portal do Aether
+tile.aether.campfire.mobNotification=Você não pode levar criaturas com você para fora do Aether.
+
+cloudParachute.ability.rightClick=§3Uso:§r Botão dir.
+cloudParachute.ability=§9Habilidade:
+cloudParachute.ability.cold=Descida Lenta
+cloudParachute.ability.purple=Descida Direcional
+cloudParachute.ability.blue=Elevação Rápida
+
+moa.feathers=Penas: %s
+moa.keratin=Queratina: %s
+moa.eyes=Olhos: %s
+moa.feather_type=Forma das Penas: %s
+moa.wing_strength=Força do Voo: %s
+
+moa.keratin.sky_blue=Céu Azul
+moa.keratin.deep_sky=Céu Profundo
+moa.keratin.sand=Areia
+moa.keratin.midnight_sky=Céu da Meia-noite
+moa.keratin.swamp=Pântano
+moa.keratin.royal=Realeza
+moa.keratin.tempest=Tempestade
+
+moa.eyes.alto=Alto
+moa.eyes.straw=Palha
+moa.eyes.winter_hazel=Avelã do Inverno
+moa.eyes.gossip=Fofoca
+moa.eyes.mint=Menta
+moa.eyes.ice=Gelo
+moa.eyes.perano=Perano
+moa.eyes.portage=Portage
+moa.eyes.perfume=Perfume
+moa.eyes.illusion=Ilusão
+moa.eyes.wewak=Wewak
+
+moa.feathers.black=Preto
+moa.feathers.grey=Cinza
+moa.feathers.white=Preto
+moa.feathers.iroko=Iroko
+moa.feathers.orange=Laranja
+moa.feathers.lisbon_brown=Marrom de Lisboa
+moa.feathers.yellow=Amarelo
+moa.feathers.mallard=Pato-real
+moa.feathers.lime_green=Verde-limão
+moa.feathers.everglade=Everglade
+moa.feathers.green=Verde
+moa.feathers.plantation=Plantação
+moa.feathers.sky_blue=Azul do Céu
+moa.feathers.cloud_burst=Estouro de Nuvem
+moa.feathers.blue=Azul
+moa.feathers.port_gore=Port Gore
+moa.feathers.purple=Roxo
+moa.feathers.bossanova=Bossanova
+moa.feathers.pink=Rosa
+moa.feathers.livid_brown=Marrom Lívido
+moa.feathers.puse=Puse
+moa.feathers.deep_red=Vermelho Profundo
+moa.feathers.red=Vermelho
+
+moa.marks.pointed=Pontiagudo
+moa.marks.flat=Plano
+moa.marks.curved=Curvado
+
+moa.wing_strength.weak=Fraco
+moa.wing_strength.normal=Normal
+moa.wing_strength.strong=Forte
+moa.wing_strength.excellent=Excelente
+
+# Item Rarities
+item.rarity.none.name=§7§oBásico
+item.rarity.common.name=§7§oComum
+item.rarity.rare.name=§b§oRaro
+item.rarity.epic.name=§5§oÉpico
+item.rarity.mythic.name=§6§oMítico
+item.rarity.godly.name=§o§aEn§bde§6u§dsa§edo
+
+# Weapon Tooltips
+item.aether.skyroot_sword.ability.desc=Loot duplicado
+item.aether.holystone_sword.ability.desc=Extrai ambrósio
+item.aether.zanite_sword.ability.desc=Mais forte, conforme o desgaste
+item.aether.arkenium_sword.ability.desc=Durável, porém pesado
+item.aether.gravitite_sword.ability.desc=Muda a gravidade
+item.aether.gravitite_sword.use.desc=Agachar & Atacar
+item.aether.holy_sword.ability.desc=Oblitera mortos-vivos
+item.aether.lightning_sword.ability.desc=Atinge alvos com raios
+item.aether.flaming_sword.ability.desc=Incendeia alvos
+item.aether.vampire_blade.ability.desc=Rouba saúde
+item.aether.candy_cane_sword.ability.desc=Larga bengalas doces
+item.aether.valkyrie_lance.ability.desc=Alcance estendido
+item.aether.sentry_vaultbox.ability.desc1=§dProduz: §rItens aleatórios
+item.aether.sentry_vaultbox.ability.desc2=§3Jogar: §rBotão direito
+item.aether.crossbow.desc1= Velocidade de recarga
+item.aether.crossbow.desc2=Segundos
+item.aether.crossbow.desc3=Segundo
+item.aether.crossbow.desc4=Habilidade
+item.aether.crossbow.use.desc=Agachar & Recarregar
+item.aether.skyroot_crossbow.ability=Tiro duplo
+item.aether.holystone_crossbow.ability=Tiro disperso
+item.aether.zanite_crossbow.ability=Mais forte, conforme o desgaste
+item.aether.arkenium_crossbow.ability=Tiro longo
+item.aether.gravitite_crossbow.ability=Tiro certeiro
+item.aether.bolt.desc=Munição de besta
+item.aether.dart.desc=Munição de atirador de dardos
+
+# Tool tooltips
+item.aether.tool.skyroot.ability.desc=Quedas duplicadas de blocos
+item.aether.tool.holystone.ability.desc=Queda de ambrósio
+item.aether.tool.zanite.ability.desc=Mais rápido, conforme o desgaste
+item.aether.tool.arkenium.ability.desc=Durável, porém pesado
+item.aether.tool.gravitite.ability.desc=Muda a gravidade do bloco
+item.aether.tool.gravitite.use.desc=Agachar & Usar
+item.aether.tool.valkyrie.ability.desc=Alcance estendido
+
+# Tooltips
+item.aether.tooltip.modifiers.gloves=Quando em mãos:
+item.aether.tooltip.ability=Habilidade
+item.aether.tooltip.use=Uso
+item.aether.tooltip.cures=Cura
+item.aether.tooltip.heals=Trata
+
+# Armor Tooltips
+item.aether.armor.zanite.ability.desc=Mais forte, conforme o desgaste
+
+# Curative Tooltips
+item.aether.curative.desc1=Cura o efeito
+item.aether.curative.fracture.desc1=Reduz o tempo de cura
+item.aether.curative.desc2=Reduz o acúmulo
+
+# Tea Tooltips
+item.aether.tea.applied.desc=Quando consumido:
+item.aether.valkyrie_tea.desc=Saturação dupla
+
+# Records
+item.aether.moa_music_disc.desc=Emile van Krieken - Approaches
+item.aether.aerwhale_music_disc.desc=AetherAudio - Aerwhale
+item.aether.labyrinth_music_disc.desc=Moorziey - Demise
+item.aether.valkyrie_music_disc.desc=Emile van Krieken - Ascending Dawn
+item.aether.recording_892.desc=Emile van Krieken - ???
+
+# Entities
+entity.aether.aechor_plant.name=Plata aechor
+entity.aether.aerbunny.name=Aerocoelho
+entity.aether.carrion_sprout.name=Comedor de carniça
+entity.aether.cockatrice.name=Cocatrice
+entity.aether.kirrid.name=Kirrid
+entity.aether.moa.name=Moa
+entity.aether.aerwhale.name=Aerobaleia
+entity.aether.zephyr.name=Zéfiro
+entity.aether.tempest.name=Tempestade
+entity.aether.taegore.name=Taegore
+entity.aether.detonation_sentry.name=Sentinela de detonação
+entity.aether.battle_sentry.name=Sentinela de batalha
+entity.aether.tracking_sentry.name=Sentinela de rastreamento
+entity.aether.chest_mimic.name=Baú mímico
+entity.aether.battle_golem.name=Golem de batalha
+entity.aether.swet.name=Swet
+entity.aether.generator.name=Gerador de entidades
+entity.aether.sentry_guardian.name=Sentinela guardião
+entity.aether.production_line.name=Linha de produção
+entity.aether.repair_sentry.name=Sentinela de reparo
+entity.aether.slider.name=Deslizador
+entity.aether.frostpine_totem.name=Totem de pinheiro congelado
+entity.aether.kraisith.name=Kraisith
+entity.aether.shade_of_arkenzus.name=Sombra de Arkenzus
+entity.aether.ethereal_wisp.name=Espírito etéreo
+entity.aether.fleeting_wisp.name=Espírito fugaz
+entity.aether.soaring_wisp=Espírito crescente
+entity.aether.fangrin.name=Fangrin
+entity.aether.nex_spirit.name=Espírito Nex
+entity.aether.pink_baby_swet.name=Swet rosa bebê
+entity.aether.glitterwing.name=Asa-brilhante
+entity.aether.edison.name=Edison
+entity.aether.burrukai.name=Burrukai
+entity.aether.necromancer.name=Necromante
+entity.aether.josediya.name=Josediya
+entity.aether.tivalier.name=Tivalier
+entity.aether.icehog.name=Porco-gelado
+entity.aether.mysterious_figure.name=Figura misteriosa
+entity.aether.varanys.name=Varanys
+entity.aether.skyroot_lizard.name=Lagarto da raiz-celeste
+entity.aether.glactrix.name=Glactrix
+entity.aether.sheepuff.name=Soprelha
+
+# Creative Tabs
+itemGroup.aether.blocks=Aether II - Blocos
+itemGroup.aether.materials=Aether II - Materiais
+itemGroup.aether.tools=Aether II - Ferramentas
+itemGroup.aether.weapons=Aether II - Armas
+itemGroup.aether.armor=Aether II - Armadura
+itemGroup.aether.food=Aether II - Comida
+itemGroup.aether.consumables=Aether II - Consumíveis
+itemGroup.aether.companions=Aether II - Companias
+itemGroup.aether.miscellaneous=Aether II - Miscelânia
+itemGroup.aether.rings=Aether II - Anéis
+itemGroup.aether.neckwear=Aether II - Colares
+itemGroup.aether.relics=Aether II - Relíquias
+itemGroup.aether.charms=Aether II - Charmes
+itemGroup.aether.artifacts=Aether II - Artefatos
+itemGroup.aether.visual_variants=Aether II - Blocos Decorativos
+itemGroup.aether.natural_blocks=Aether II - Blocos Naturais
+itemGroup.aether.construction=Aether II - Bloco de Construção
+itemGroup.aether.utility_blocks=Aether II - Blocos Úteis
+itemGroup.aether.dungeon_blocks=Aether II - Blocos de Dungeon
+itemGroup.aether.thera=Aether II - Blocos Theranos
+
+# Containers
+# TODO: Prefix with aether.
+container.holystone_furnace=Fornalha de pedra sagrada
+container.skyroot_chest=Baú de raiz-celeste
+container.skyroot_double_chest=Baú grande de raiz-celeste
+container.labyrinth_chest=Baú de labirinto
+container.icestone_cooler=Refrigerador de pedra gelada
+container.incubator=Incubadora
+container.masonry_bench=Mesa de alvenaria
+container.aether_workbench.recipes=Fabricação (%s/%s)
+
+# Sounds
+subtitles.aether.portal.glowstone.hum=Portal hums
+subtitles.aether.portal.glowstone.trigger=Portal activates
+subtitles.aether.portal.glowstone.travel=Portal teleports
+subtitles.aether.portal.labyrinth_totem.drone=Totem drones
+subtitles.aether.portal.labyrinth_totem.woosh=Totem wooshes
+subtitles.aether.block.aercloud.bounce=Aercloud recoils
+subtitles.aether.mob.aerbunny.ambient=Aerbunny squeaks
+subtitles.aether.mob.aerbunny.hurt=Aerbunny hurts
+subtitles.aether.mob.aerbunny.death=Aerbunny dies
+subtitles.aether.mob.aerbunny.lift=Aerbunny lifted
+subtitles.aether.mob.aerwhale.ambient=Aerwhale whistles
+subtitles.aether.mob.aerwhale.death=Aerwhale dies
+subtitles.aether.mob.cockatrice.ambient=Cockatrice hisses
+subtitles.aether.mob.cockatrice.hurt=Cockatrice hurts
+subtitles.aether.mob.cockatrice.death=Cockatrice dies
+subtitles.aether.mob.tempest.ambient=Tempest drones
+subtitles.aether.mob.tempest.hurt=Tempest hurts
+subtitles.aether.mob.tempest.death=Tempest dies
+subtitles.aether.mob.tempest.angry=Tempest charges
+subtitles.aether.mob.tempest.electric_shock=Tempest fires shock
+subtitles.aether.mob.zephyr.ambient=Zephyr wooshes
+subtitles.aether.mob.zephyr.puff=Zephyr puffs
+subtitles.aether.mob.tracking_sentry.alarm=Tracking Sentry alert
+subtitles.aether.mob.sentry.ambient=Sentry growls
+subtitles.aether.mob.sentry.hurt=Sentry hurts
+subtitles.aether.mob.sentry.death=Sentry dies
+subtitles.aether.mob.battle_sentry.pounce=Battle Sentry pounces
+subtitles.aether.random.stone.thud=Stone thud
+subtitles.aether.random.detonating=Explosive detonating
+subtitles.aether.random.detonate=Explosive detonated
+subtitles.aether.random.dart_shooter.fire=Dart Shooter fired
+subtitles.aether.mob.moa.ambient=Moa calls
+subtitles.aether.mob.moa.hurt=Moa hurts
+subtitles.aether.mob.kirrid.ambient=Kirrid baahs
+subtitles.aether.mob.kirrid.hurt=Kirrid hurts
+subtitles.aether.mob.kirrid.death=Kirrid dies
+subtitles.aether.mob.taegore.ambient=Taegore snorts
+subtitles.aether.mob.taegore.hurt=Taegore hurts
+subtitles.aether.mob.taegore.death=Taegore dies
+subtitles.aether.mob.taegore.attack=Taegore attacks
+subtitles.aether.mob.chest_mimic.awake=Chest Mimic awakens
+subtitles.aether.random.present_unwrap=Present rips
+subtitles.aether.random.dungeon.container.smash=Container smashed
+subtitles.aether.mob.slider.awake=Slider awakens
+subtitles.aether.mob.slider.collide=Slider collides
+subtitles.aether.mob.slider.die=Slider cracks
+subtitles.aether.mob.slider.move=Slider moves
+subtitles.aether.mob.slider.signal=Slider signals
+subtitles.aether.mob.generic.wings.flap=Wings flap
+subtitles.aether.mob.burrukai.ambient=Burrukai huffs
+subtitles.aether.mob.burrukai.hurt=Burrukai hurts
+subtitles.aether.mob.burrukai.death=Burrukai dies
+subtitles.aether.mob.burrukai.attack=Burrukai attacks
+subtitles.aether.environment.rain.light=Rain drizzles
+subtitles.aether.environment.rain.heavy=Rain pours
+subtitles.aether.environment.snow.wind=Wind blows
+
+# Accessory slot names
+gui.aether.slot.none=Não Equipável
+gui.aether.slot.neckwear=Colar
+gui.aether.slot.companion=Compania
+gui.aether.slot.shield=Escudo
+gui.aether.slot.relic=Relíquia
+gui.aether.slot.ring=Anel
+gui.aether.slot.handwear=Mãos
+gui.aether.slot.charm=Charme
+gui.aether.slot.artifact=Artefato
+gui.aether.slot.helmet=Capacete
+gui.aether.slot.chestplate=Peitoral
+gui.aether.slot.leggings=Calças
+gui.aether.slot.boots=Botas
+gui.aether.slot.offhand=Mão Auxiliar
+gui.aether.coolant=Refrigerante
+gui.aether.cools_into=Cools Into:
+gui.aether.random_item=Item Aleatório
+gui.aether.random_armor=Armadura Aleatória
+gui.aether.random_sword=Espada Aleatória
+gui.aether.random_tool=Ferramenta Aleatória
+gui.aether.random_ring=Anel Aleatório
+gui.aether.random_neckwear=Colar Aleatório
+gui.aether.random_charm=Charme Aleatório
+gui.aether.incubator_fuel=Combustível de Incubadora
+gui.aether.baby_moa=Moa Filhote
+gui.aether.respawn.bed=Renascer na Cama
+gui.aether.campfire.bed=Renascer no Posto
+gui.aether.loading.indeterminate=Carregando...
+gui.aether.loading.progress=Loading... %s%%
+gui.aether.patreon.rewards.button.use=Uso
+gui.aether.patreon.rewards.button.locked=Bloqueado
+gui.aether.incubator.label.incubation=Incubação
+gui.aether.incubator.label.heating=Temperatura
+gui.aether.incubator.label.more_heat=Mais calor!
+gui.aether.incubator.label.ready=Pronto!
+gui.aether.incubator.label.max=MAX
+gui.aether.incubator.label.fail=FALHANDO!
+gui.aether.masonry.label.recipes=Criações
+
+gui.aether.hover.npc=Fale com %s
+gui.aether.hover.campfire=Retornar ao mundo superior
+gui.aether.hover.teleporter=Entrar no Aether
+
+gui.guidebook.discovery.stats=Estatísticas:
+gui.guidebook.discovery.moves=Movimentos:
+
+# Death messages
+
+death.attack.aether.effect.bleed=%1$s sangrou até a morte
+death.attack.aether.effect.fungalRot=%1$s sucumbiu à putrefação fúngica
+death.attack.aether.effect.fracture=Ai! coitado dos ossos de %1$s
+
+# Status Effects
+
+effect.aether.ambrosium_poisoning=Envenenamento por ambrósio
+effect.aether.bleed=Sangramento
+effect.aether.cockatrice_venom=Veneno de cocatrice
+effect.aether.fracture=Fratura
+effect.aether.freeze=Congelamento
+effect.aether.fungal_rot=Putrefação fúngica
+effect.aether.stun=Atordoado(a)
+effect.aether.toxin=Toxina
+effect.aether.webbing=Aperto
+
+effect.aether.saturation_boost=Impulso de Saturação
+
+effect.aether.guard_break=Quebra de guarda
+
+# Damage Attributes
+
+attribute.name.aether.slash=Golpe
+attribute.name.aether.pierce=Penetração
+attribute.name.aether.impact=Impacto
+
+attribute.name.aether.damageLevel=Dano
+
+# Introsat
+
+intro.prologue=200 years after a lone adventurer defeated the tyrannical Sun Spirit, Karthuul, a new traveller is about to enter the Aether...
+intro.tip1=DISCLAIMER:\n\nThis indev build is an UNFINISHED, BUGGY,\n\nPOOR PERFORMANCE iteration of the official Highlands release (date not decided yet).\n\nIF YOU DO NOT WANT TO SPOIL YOUR EXPERIENCE, we HIGHLY RECOMMEND you DO NOT PLAY THIS until the official release.\n\nMany features are missing, some are experimental, etc. We have released these indev builds for those who want to help test and who cannot wait to get their Aether fix.
+intro.tip2=DUNGEONS ARE NOT IN THE MOD YET. We're still designing and developing the technology for them through our other tech/tool mod called Orbis. It will take some time for this content to get into the mod. The prime experience you can mess around with right now is exploring the new biomes and terrain generation, as well as the new art assets and models we've developed.
+intro.tip3=The world you're about to enter is completely separate from Minecraft, in both lore, time and space...
+intro.tip4=Begin your journey?
+intro.holdToSkip=Hold To Skip
+intro.proudlyPresents=Proudly Presents...
+intro.yes=Sim
+intro.no=Não
+
+# Teleporter Notice
+
+notice.body=You must be a returning player.\n\nIn Aether II, travelling to the Aether is no longer done with a Glowstone Portal.\n\nInstead, craft an Aether Portal block.
+notice.gotcha=Gotcha!
+notice.holdUp=Woah! Hold up
+
+#Ability Tooltips
+ability.breatheUnderwater.name=Respiração aquática
+ability.daggerfrost.name=Punhal gelado
+ability.doubleDrops.name=Quedas duplas
+ability.extraDamage.name=Increased Damage
+ability.punchingDamage.name=Increased Punch
+ability.freezeBlocks.name=Freezing Aura
+ability.pauseHunger.name=Food Heaven
+ability.reduceHunger.name=Well Fed
+ability.regenerateHealth.name=Health Regeneration
+ability.maxHealthMod.name=Max Health Modifier
+ability.movementSpeedMod.name=Movement Speed Modifier
+ability.modifyXPCollection.name=XP Collection Modifier
+ability.modifyDefense.name=Defense Modifier
+ability.weightTolerance.name=Weight Tolerance
+ability.invisibility.name=Invisibility
+ability.changeAttackElement.name=Change Attack Element
+ability.setEnemiesOnFire.name=Sparking Touch
+ability.fireImmunity.name=Fire Immunity
+ability.companionMaxHealthMod.name=Companion Max Health Modifier
+ability.slowfall.name=Slowfall
+ability.attackSpeedMod.name=Attack Speed Modifier
+
+elementalState.biological=Biológico
+elementalState.frost=Congelamento
+elementalState.fire=Fogo
+elementalState.water=Água
+elementalState.earth=Terra
+elementalState.air=Ar
+elementalState.blight=Praga
+elementalState.lightning=Raio
+
+ability.extraDamage.attack=Ataque
+ability.extraDamage.desc=%s %s Dano
+ability.active=§5Ativo apenas:
+ability.cosmetic=§eCosmético
+ability.breatheUnderwater.desc=§9Respiração aquática
+ability.daggerfrost.desc=§9Bolas de neve causam dano
+ability.doubleDrops.desc1=§9Quedas duplas de monstros
+ability.doubleDrops.desc2=%s%% Chance
+ability.punchingDamage.desc1=%s Dano de soco
+ability.punchingDamage.desc2=%s %s Soco
+ability.freezeBlocks.desc=§9Congela blocos próximos
+ability.pauseHunger.desc=§9Cessa a fome
+ability.reduceHunger.desc=§9Reduz a fome
+ability.regenerateHealth.desc=§9Regenera sáude
+ability.maxHealthMod.desc=%s Vida máxima
+ability.movementSpeedMod.desc=%s Velocidade
+ability.modifyXPCollection.desc=%s Exp coletada
+ability.defenseMod.desc=%s %s
+ability.defenseMod.desc1=Defesa
+ability.defenseMod.desc2=Resistência
+ability.invisibility.desc=§9Invisibilidade
+ability.changeAttackElement.desc=§9Todos os ataques viram:
+ability.setEnemiesOnFire.desc=§9Incendeia inimigos
+ability.fireImmunity.desc=§9Imunidade ao fogo
+ability.doubleJump.desc=§9Pulo duplo
+ability.companion.desc=Para a compania
+ability.leechLife.desc1=§9Roubo de saúde
+ability.leechLife.desc2=%s%% chance
+ability.slowfall.desc=§9Queda lenta
+ability.weight.desc1=Peso de %skg
+ability.weight.desc2=Tolerância ao peso%skg 
+ability.levitateAttackers.desc1=§9Levita atacantes
+ability.levitateAttackers.desc2=%s%% de chance
+ability.setAttackersOnFire.desc1=§9Queima atacantesBurns Attackers
+ability.setAttackersOnFire.desc2=%s%% de chance
+ability.attackSpeedMod.desc=%s Velocidade de ataque
+
+# Tabs
+tab.guidebook=Aether II
+tab.guidebook.equipment=Equipamento
+tab.guidebook.status=Status
+tab.guidebook.loretome=Livro da História
+tab.guidebook.discovery=Descobertas
+tab.guidebook.discovery.bestiary=Bestiário
+tab.guidebook.discovery.landmarks=Pontos de referência
+tab.guidebook.discovery.characters=Personagens
+tab.guidebook.discovery.effects=Efeitos
+tab.bug_report=Reporte bugs e problemas
+tab.backpack.name=Mochila
+tab.patron_rewards=Recompensas para patrões
+
+# Chat Messages
+chat.aether.resurrected=%s foi ressuscitado(a) pelo seu Espírito Nex
+
+# In Development Menu
+indev.button=Pode vir!
+indev.line1=Olá, jogador ansioso!
+indev.line2=Obrigado pelo seu interesse no mod! Antes de nós prosseguirmos, gostariamos de deixar claro algumas coisas. Essa versão do Aether é uma preview ainda em desenvolvimento. Isso significado que você poderá encontrar problemas graves, como:
+indev.line3=Corrupção do mundo e crashes
+indev.line4=Criaturas sem modelos ou texturas
+indev.line5=Mecânicas do jogo quebradas
+indev.line6=E o mais importante, vários bugs!
+indev.line7=Nós estamos muito felizes em deixar você jogar uma versão antecipada do Aether, mas nós pedimos muito pela sua paciência e suporte em retorno, na medida em que nós continuamos o desenvolvimento.
+indev.line8=Ao apertar o botão embaixo, você deixa claro que entendeu os termos acima, e que você não irá nos responsabilizar se o seu jogo ganhar vida própria e fugir para a floresta.
+
+# Bug Report Menu
+bug_report.button=Abrir o rastreador de problemas
+bug_report.line1=Olá denovo!
+bug_report.line2=Did you run into an issue? If you'd like, you can help contribute to the Aether by visiting our issue tracker.
+bug_report.line3=Issues are an easy way to report bugs and other problems with the mod, giving you direct access to developer help and our amazing community of volunteers.
+bug_report.line4=Clicking the button below will take you to an external website in your browser where our issue tracker is located. Register an account today, and help us squash bugs faster than ever!
+
+aether.warning.deprecated_item=§cAntigo! Vai ser removido!
+aether.warning.operator_item=Necessita de privilégios de operador
+
+# Rewards
+aether.reward.sun_spirit.name=Espírito do Sol
+aether.reward.slider.name=Deslizador
+aether.reward.valkyrie_queen.name=Rainha Valquíria
+aether.reward.none.name=Nada
+
+# Trade
+aether.trade.gui.thirdtrade=%s's Trade
+aether.trade.gui.firsttrade=Your Trade
+aether.trade.gui.lock=Lock-in Trade
+aether.trade.gui.unlock=Unlock Trade
+aether.trade.gui.confirm=Confirm Trade
+aether.trade.chat.success=Your trade with %s has been completed!
+aether.trade.chat.cancel=Your trade with %s has been canceled!
+aether.trade.chat.request=%s wants to trade with you! Interact with them to begin trading!
+aether.trade.chat.failexpired=Your trade request for %s has expired!
+aether.trade.chat.failtrade=%s is currently trading.
+aether.trade.chat.failsent=You have already sent a trade invitation to %s.
+aether.trade.status.waitingboth=Waiting on both parties to lock-in
+aether.trade.status.waitingyou=Waiting on you to lock-in
+aether.trade.status.waitingthem=Waiting on other party to lock-in
+aether.trade.status.confirmboth=Waiting on both parties to confirm
+aether.trade.status.confirmyou=Waiting on you to confirm
+aether.trade.status.confirmthem=Waiting on other party to confirm
+aether.trade.status.sizeerror=Trade cannot safely be made
+aether.trade.message.targetlock=%s locked in their trade!
+aether.trade.message.targetconfirm=%s confirmed their trade!
+aether.trade.message.unlockwarn=%s unlocked their trade! Check their trade before locking in again!
+aether.trade.message.unlocksafe=%s unlocked their trade!
+aether.trade.message.inventorywarn=You do not have enough space in your inventory to accept this trade!
+aether.trade.message.tradewarn=They do not have enough space in their inventory to accept your trade!
+
+
+# Shop
+aether.shop.sell=Sell
+aether.shop.buy=Buy %s
+aether.shop.back=Back
+aether.shop.lockTooltip=If unlocked, each time you click on a new stock item, the amount you're trying to buy will reset to 1.
+
+##=======================##
+###########################
+#                         #
+#  CHARACTER NAMES        #
+#                         #
+###########################
+##=======================##
+
+edison.name=Edison
+necromancer.name=Necromante
+josediya.name=Josediya
+
+##=======================##
+###########################
+#                         #
+#  GENERIC DIALOG         #
+#                         #
+###########################
+##=======================##
+
+generic.back=Voltar
+generic.okay=Ok
+generic.goodbye=Até mais
+
+##=======================##
+###########################
+#                         #
+#  NECROMANCER DIALOGUE   #
+#                         #
+###########################
+##=======================##
+
+necromancer.them.start1=Estou feliz de ver você aqui, viajante. Eu tenho certeza que você tem muitas perguntas, mas o tempo é a essência.
+necromancer.them.start2=Através dessa fenda no espaço, você irá encontrar um homem com uma cicatriz sobre o seu olho, o nome dele é Edison. Ele é um "amigo".
+necromancer.them.start3=Ele irá responder qualquer pergunta, ele foi contratado para o(a) ajudar na sua jornada. Ele pode parecer estranho, mas... bem...
+necromancer.them.start4=Nós estamos em compania de estranhos aqui, não é mesmo?
+necromancer.them.start5=Tenha uma boa viagem, um novo mundo espera por você.
+
+necromancer.us.leadtheway=Obrigado(a). Até mais.
+
+##=======================##
+###########################
+#                         #
+#  EDISON GREET DIALOGUE  #
+#                         #
+###########################
+##=======================##
+
+edison.greet.start_not_introduced=Está atrasado, novato(a). Estou esperando você há várias horas.
+
+edison.greet.option.expecting=Você estava me esperando?
+edison.greet.option.who=Quem é você?
+edison.greet.option.map=Eu não tinha um mapa.
+
+edison.greet.respawn_not_introduced=Você realmente deveria se cuidar melhor, chapa. Tem sorte de ter sido encontrado(a) inteiro.
+edison.greet.respawn=Você está bem? Você parecia bem detonado(a) ali embaixo.
+
+edison.greet.option.what=Que lugar é esse?
+edison.greet.option.died=I thought I was done for...
+
+edison.greet.option.fine=Estou bem.
+edison.greet.option.thanks=Obrigado(a), Edison.
+edison.greet.option.okay_sale=Eu vou ficar bem, tem algo para vender?
+edison.greet.option.okay_holiday_sale=Estou legal. Você tem um estoque especial para esse feriado?
+
+edison.greet.start=Olá meu chapa, como está indo? Precisa de algo?
+
+edison.greet.option.sale=You got anything for sale?
+edison.greet.option.holiday_sale=Do you have special stock for this holiday season?
+
+edison.greet.option.okay_goodbye=I think I'm okay. Goodbye.
+edison.greet.option.ready_goodbye=I think I'm ready. Bye, Edison.
+edison.greet.option.mind_goodbye=I'll keep that in mind. Goodbye.
+
+edison.greet.expecting1=Of course! I’m being paid good money by our "mutual friend” to watch your back.
+edison.greet.expecting2=Wait, did he not explain our little arrangement? Typical...
+edison.greet.expecting3=Well then... What do I need to explain to you?
+
+edison.greet.option.no_we_talked=No we talked. You’re... Edison, right?
+
+edison.greet.who1=I’m Edison! International entrepreneur, salesman and master of persuasion!
+edison.greet.who2=But to you, due to our little agreement with "you know who”, I am also your contact in these strange lands.
+edison.greet.who3=Basically, that means I’ve got to look after you.
+edison.greet.who4=Now I’m a strong believer in knowledge being the best tool in this world. So in the interest of keeping you from, well, dying...
+edison.greet.who5=Do you have any more questions?
+
+edison.greet.option.you_know_who="You know who?"
+
+edison.greet.map1=Haha! Snarky one aren’t ya? Maybe I should’ve expected a bit of a wait.
+edison.greet.map2=Not exactly hard to find these places though. Would’ve thought you’d be dropped off nearby anyway.
+
+edison.greet.what1="This place?" King of vague questions aren’t you?
+edison.greet.what2=I would assume you knew at least a little about what you were getting into coming here, but I’ll need you to be a bit more specific than that.
+edison.greet.what3=Do you mean this building we’re standing in? Or the actual world around us?
+
+edison.greet.option.building=This building.
+edison.greet.option.world=This world.
+
+edison.greet.died1=So did I! When my employee dragged you in here I wasn’t sure you were gonna wake up.
+
+edison.greet.fine1=Well that was passive aggressive considering me and my men just saved your skin.
+edison.greet.fine2=You need anything before you head off?
+
+edison.greet.thanks1=Don’t mention it. We’ve all got a role to play here, mine’s to keep you safe.
+edison.greet.thanks2=You need anything or are you good to set off?
+
+edison.greet.sale=Sure thing, let’s take a look at my stock.
+edison.greet.holiday_sale=Hope you're feeling festive, friend! Take a peek at our exclusive stock for this holiday season.
+
+edison.greet.no_we_talked1=That’s right! International entrepreneur, salesman and master of persuasion!
+edison.greet.no_we_talked2=But to you, due to our little agreement with The Necromancer, I am also your contact in these strange lands.
+edison.greet.no_we_talked3=Basically that means I’ve got to look after you.
+edison.greet.no_we_talked4=Now I’m a strong believer in knowledge being the best tool in this world. So in the interest of keeping you from, well, dying...
+edison.greet.no_we_talked5=Do you have any more questions?
+
+edison.greet.you_know_who1=The Necromancer. You know - Mr. Tall, Dark and Creepy?
+edison.greet.you_know_who2=Him and I have been in contact quite regularly, and he’s paying me quite a lot of coin to ensure if you’re ever in a pinch you’ll be taken to a safe place.
+edison.greet.you_know_who3=Thinking about it though, he usually leaves a note in with his little "gifts” he hands out. Maybe take a look through your Guidebook for one.
+
+edison.greet.building1=Ah well this here is an old traveller's outpost! One built many years ago by the Valkyries as a burial ground.
+edison.greet.building2=Since then many people have taken it upon themselves to maintain these areas, making them a truly safe place for anyone wandering the Aether's landscape to rest.
+
+edison.greet.option.valkyries=Valkyries?
+edison.greet.option.what_world=What about this world?
+edison.greet.option.what_building=What about this building?
+
+edison.greet.world1=Okay then, not been told much? This here is The Aether! It's a world that exists high above our own, so high it has its own flora and fauna.
+edison.greet.world2=What you stand in now is one of many ancient Valkyrie outposts, they were set up originally as sacred burial grounds if I recall correctly, but since have served as a place of resting for many travellers.
+
+edison.greet.valkyries1=They're kinda like the city guards of this world but err... Heh... Much more powerful. A solo legionnaire could rip you to shreds if you gave it reason to.
+edison.greet.valkyries2=Luckily they're rather friendly, not big talkers though. You should find them wandering around most towns and villages. They have some sort of holy pact to protect people or something.
+edison.greet.valkyries3=Honestly I'm not entirely sure what they are, you're better off asking one of the natives. Or a Valkyrie in person! They're kinda hard to miss.
+edison.greet.valkyries4=Have anything else you want to know?
+
+##=======================##
+###########################
+#                         #
+#  EDISON SHOP DIALOGUE   #
+#                         #
+###########################
+##=======================##
+
+edison.shop.greetings1=Here we are, great stock today. Got some real unique treasures mixed in, take a look.
+edison.shop.greetings2=Fair prices I assure you, but err... no refunds. Company policy.
+
+edison.shop.enchanted_wyndberry=I have a guy who picks these from the Carrion plants, dangerous little things they are. He also enriches them with Ambrosium for an extra kick!
+edison.shop.enchanted_blueberry=Blueberries are pretty easily found but these ones are enchanted with Ambrosium, good stuff if you're feeling a little under the weather.
+edison.shop.ambrosium_shard=Now this stuff is truly special, truly multipurpose material. It can repair equipment, enhance food, fuel fire. It's even known to treat diseases with the right application.
+edison.shop.skyroot_stick=I'm going to be straight with you, these aren't really part of my stock. But you're free to buy them if you like.
+edison.shop.skyroot_pickaxe=Great for whacking away at some stone, locals revere Skyroot as a material for its supposed "unparalleled accuracy". Load of bunk if you ask me but it's a good starter if you plan on mining.
+edison.shop.skyroot_axe=Feels a bit wrong, chopping down trees with trees. Ah well. It's a good axe to get you off your feet with woodwork.
+edison.shop.skyroot_sword=Looking to protect yourself? Wildlife around these parts can be a bit feisty. Carrying a sword would be a smart investment.
+edison.shop.skyroot_shovel=If the offensive route fails, why not dig yourself a little hidey-hole! Shovel will come in handy for sure.
+edison.shop.therawood_leaves=I actually had a fella make these from Brettl cane, painted them up nicely to resemble the leaves from Grinstol's forests.
+edison.shop.therawood_log=Our friend let me take a few saplings with me for growing trees, little experiment of his. The leaves came out bleached from the gasses in the air but the logs are just fine.
+edison.shop.thera_dirt=My little pet project, I wanted to see how the geology of this world is compared to back home so I cultivated some dirt of similar composition to Thera's. Utter waste of time but it looks nostalgic!
+edison.shop.thera_grass=Managed to grow something resembling Thera's grass. Always did think the grass was greener down there.
+edison.shop.therastone_brick=Now these I made to replicate old tall dark and scary's Tower. They're just simple Agretite but with enough wear and tear I got them looking just about right.
+
+edison.shop.holiday_notice=50%% Off Stock!\nHoliday Special
+
+edison.shop.greetings_holiday=Welcome to my holiday wares! This stock is only here for a limited time, so catch it while you can. Don't be the fool who didn't take the chance!
+
+edison.shop.candy_cane=Festive treats, those ones. Not to be confused with actual canes, people from far and wide tend to decorate them on my Mutant Trees - and lucky for you, those saplings are on sale!
+edison.shop.candy_cane_block=Have you ever just thought "Wow, I really need to crush up a bunch of candy and make a monstrous slab out of it"? Me neither. Regardless, it's on sale - why not give it a shot while stocks last?
+edison.shop.candy_cane_wall=I guess you could... fend off the non-sweet-tooths of the world? I'm stumped, but these things are all the rage these days. I don't get it, and frankly I don't want to because they sell like crazy.
+edison.shop.mutant_sapling=This brings back memories. Too bad I can't tell you how these wonderous trees were made. Let's just say they're a holiday treat, ones which have a tendency to grow "lightbulbs".
+edison.shop.winter_hat=Townsfolk downstairs love these. Come to think of it, there's not been a festive night where I haven't seen at least one person wearing it. It doesn't do much, but I've heard it's a stylish addition to your wardrobe.
+edison.shop.eggnog=Here's the thing: I like Eggnog, it tastes great - but once I've had a few, those Aerbunnies simply refuse to leave me alone! It's crazy. Am I the only one?
+edison.shop.yule_log=Ever wanted to eat a log? Well you're in luck. This is your one chance to eat a log and not feel bad about it!
+
+##=======================##
+###########################
+#                         #
+#  JOSEDIYA DIALOGUE      #
+#                         #
+###########################
+##=======================##
+
+josediya.greet.start_not_introduced=So you’re finally here. I don’t see what’s so important about you, let’s get this over with.
+josediya.greet.start=Is there anything else you need?
+
+josediya.greet.option.what=What are you?
+josediya.greet.option.where=Where do you come from?
+josediya.greet.option.take_me=Can you take me there?
+
+josediya.greet.option.winged_beast=What is that winged beast?
+josediya.greet.option.fly=You fly on him?
+josediya.greet.option.moa=Can I get a Moa?
+
+josediya.greet.option.who=Who are you?
+josediya.greet.option.friends=Are you not friends with "Baldy"?
+josediya.greet.option.paying=Is he paying you to help me?
+josediya.greet.option.white_gold=I don't have any Gilt. What now?
+
+josediya.greet.option.services=What services do you provide?
+josediya.greet.option.home=How do you know where my home is?
+josediya.greet.option.walk_home=Why can't I just walk home?
+
+josediya.greet.what=Wow not very smart are you? I’m a person, like you or that bald idiot over there. Never seen an Angel before? Valkyries save us all.
+josediya.greet.where=I come from a nation far south from here called Veradex. It’s where I get most of my work from.
+josediya.greet.take_me=I don’t think you have the coin, human. Veradex is about 3 weeks of swift travel away from here, dangerous route too. I can’t take you there.
+josediya.greet.winged_beast=That is my friend Tivalier, actually. He’s a Moa, a strong one too; he could fly both of us on his back and not break a sweat.
+josediya.greet.fly=Of course! That’s what he’s been trained for. I raise Moas as part of my work. They’re very friendly creatures if you treat them right.
+josediya.greet.moa=You’d need to raise one yourself for it to trust you enough to ride it, getting an egg isn’t an easy task though; Moas are very defensive of their nests.
+josediya.greet.who=The girl who’s going to be taking you places. My name is Josediya, I run a carriage business and baldy over there has brought me in to help you.
+josediya.greet.friends=Edison and I get along fine, he’s proved helpful over the years I’ve known him, but I still don’t trust him much. It’s just mutually beneficial for us to work together.
+josediya.greet.paying=No this is me repaying a favour. You’re the one who’s gonna pay me. And I don’t take coin from your world, Gilt only.
+josediya.greet.white_gold=That’s your problem. I don’t care how you get it, but I need to be paid for my work. Go help some farmers or something.
+josediya.greet.services=If you ever find yourself setting up shop somewhere, I can take you back to your home from any outpost. I will expect payment though.
+josediya.greet.home=I’m not taking you back to Thera, if that’s what you mean. You’ll have to find a new place to rest here in the Aether first.
+josediya.greet.walk_home=I won’t stop you but the Aether’s islands can be pretty far apart. Travelling in my carriage is going to be a lot faster and a lot smoother for you. The cloud bed is sturdy enough to walk between islands on foot, but it can be pretty dangerous without proper protection.
+
+josediya.greet.travel=Okay. Where to?
+josediya.greet.option.travel_to=Travel To Bed
+josediya.greet.option.travel_from=Travel Back To Last Outpost
+josediya.greet.option.travel=Travel
+
+##================================##
+####################################
+#                                  #
+#    MYSTERIOUS FIGURE DIALOGUE    #
+#                                  #
+####################################
+##================================##
+
+mysterious_figure.greet.start=A new traveller I see! Welcome, welcome... Behold my wondrous wares from a realm beyond - an assortment of sweets shall correspond!
+mysterious_figure.greet.option.who_are_you=Who are you?
+mysterious_figure.greet.option.why_plumproots=Why are you holding a plumproot over your shoulder?
+mysterious_figure.greet.option.sale=Can I take a look at your wares?
+mysterious_figure.greet.who_are_you=You want a name, ‘tis but a mystery! All forgotten, even through history!
+mysterious_figure.greet.why_plumproots=Do you not know the marvelous things you can do with such beautiful plumproots? You can broth it, you can stew it, for my wares you must pursue it! Has your mouth graced the taste of plumproot pie? It’s something you must have before you die!
+mysterious_figure.greet.sale=Good, good! Plumproots you shall give, candies I shall weave.
+mysterious_figure.shop.greetings=Plumproots, plumproots, plumproots! My candies I will trade for plumproots - anything else as good as gumboots!
+mysterious_figure.shop.candy_corn=You know what goes good with corn? Plumproots! ...and candy too, I guess.
+mysterious_figure.shop.cocoatrice=No Cockatrices were harmed in the making of this product.
+mysterious_figure.shop.wrapped_chocolates=I hand wrap these chocolates myself! Don’t be surprised if you find trace amounts of bones.
+mysterious_figure.shop.jelly_plumproot=I’m not sure if you could tell, but these are by far my favourite supplies.
+mysterious_figure.shop.blueberry_lollipop=Children from far and wide love these little suckers. May or may not turn you into a giant blueberry.
+mysterious_figure.shop.orange_lollipop=Tastes like oranges! P.S: This candy contains zero traces of oranges.
+mysterious_figure.shop.icestone_poprocks=Not actually made with Icestone.
+mysterious_figure.shop.ginger_bread_man=I once heard a story of a man made gingerbread. Legend says, on the eve of this sacred month, they ate gingerbread in the shape of a man and turned into the very thing they consumed. Feeling lucky?
+mysterious_figure.shop.candy_cane=Try using this as walking cane. Go on, I dare you.
+
+# Discovery descriptions:
+
+aether.placeholder.discovery.description=???
+aether.taegore.discovery.description=The Highlands Taegore are very sociable creatures, they roam in small packs usually lead by the eldest parents.\n\nWhile the Taegore can be friendly, they're equipped with robust armor and sharp tusks which can make them difficult to overpower in a fight.\n\nTheir fur is a sturdy material used in clothing
+
+# Config
+
+config.aether.skip_intro.name=Pular introdução
+config.aether.enable_skybox.name=Display Aether Skybox
+config.aether.display_inventory_pattern.name=Display Inventory Pattern
+config.aether.cutout_helmets.name=Capacetes transparentes
+config.aether.helmet_shadow.name=Transparent Helmet Shadows
+config.aether.aether_dimension_id.name=ID da dimensão do Aether
+config.aether.necromancer_dimension_id.name=Necromancer's Tower Dimension ID
+config.aether.display_performance_indicator.name=Display Performance Indicator
+config.aether.analytics_enabled.name=Enable Analytics (client-side only)
+config.aether.fingerprint_violation.name=Acknowledge Fingerprint Violation
+config.aether.aerwhale_riding.name=Aerobaleias montáveis
