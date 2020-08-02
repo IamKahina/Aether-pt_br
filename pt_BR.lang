@@ -235,8 +235,8 @@ tile.aether.hellfirestone_brick_decorative.capstone_pillar.name=Pilar do topo
 tile.aether.hellfirestone_brick_decorative.flagstones.name=Ladrilhos
 tile.aether.hellfirestone_lantern.name=Lanterna de pedra infernal
 tile.aether.hellfirestone_pillar.name=Pilar de tijolos de pedra infernal
-tile.aether.faded_holystone_brick.name=Tijolos de pedra sagrada desgastada
-tile.aether.faded_holystone_brick_decorative.name=Tijolos decorativos de pedra sagrada desgastada
+tile.aether.faded_holystone_brick.name=Tijolos de pedra sagrada desgastada 
+tile.aether.faded_holystone_brick_decorative.name=Tijolos de pedra sagrada desgastada decorativos
 tile.aether.faded_holystone_brick_decorative.base_bricks.name=Base Bricks
 tile.aether.faded_holystone_brick_decorative.base_pillar.name=Base Pillar
 tile.aether.faded_holystone_brick_decorative.keystone.name=Keystone
@@ -245,8 +245,8 @@ tile.aether.faded_holystone_brick_decorative.capstone_pillar.name=Capstone Pilla
 tile.aether.faded_holystone_brick_decorative.flagstones.name=Flagstones
 tile.aether.faded_holystone_brick_decorative.headstone.name=Headstone
 tile.aether.faded_holystone_pillar.name=Pilar de tijolos de pedra sagrada desgastada
-tile.aether.therastone_brick.name=Tijolos de therastone
-tile.aether.therastone_brick_decorative.name=Tijolos decorativos de therastone
+tile.aether.therastone_brick.name=Tijolos de pedra de Thera
+tile.aether.therastone_brick_decorative.name=Tijolos decorativos de pedra de Thera
 tile.aether.therastone_brick_decorative.base_bricks.name=Base Bricks
 tile.aether.therastone_brick_decorative.base_pillar.name=Base Pillar
 tile.aether.therastone_brick_decorative.keystone.name=Keystone
@@ -256,8 +256,8 @@ tile.aether.therastone_brick_decorative.flagstones.name=Flagstones
 tile.aether.therastone_brick_decorative.headstone.name=Headstone
 tile.aether.therastone_pillar.name=Pilar de therastone
 tile.aether.agiosite.name=Agiosita
-tile.aether.agiosite_brick.name=Tijolos de Agiosita
-tile.aether.agiosite_brick_decorative.name=Decorative Agiosite Bricks / Tijolos decorativos de agiosita
+tile.aether.agiosite_brick.name=Tijolos de agiosita
+tile.aether.agiosite_brick_decorative.name=Tijolos de agiosita decorativos
 tile.aether.agiosite_brick_decorative.base_bricks.name=Base Bricks
 tile.aether.agiosite_brick_decorative.base_pillar.name=Base Pillar
 tile.aether.agiosite_brick_decorative.keystone.name=Keystone
@@ -275,7 +275,7 @@ tile.aether.therawood_decorative.top_beam.name=Top Beam
 tile.aether.therawood_decorative.floorboards.name=Floorboards
 tile.aether.therawood_beam.name=Therawood Beam
 tile.aether.therawood_log.name=Tronco de therawood
-tile.aether.therawood_leaves.name=Therawood Leaves / Folhas de therawood
+tile.aether.therawood_leaves.name=Folhas de Therawood
 tile.aether.skyroot_planks.name=Skyroot Planks
 tile.aether.skyroot_decorative.name=Decorative Skyroot Planks
 tile.aether.skyroot_decorative.base_planks.name=Base Planks
@@ -288,7 +288,7 @@ tile.aether.skyroot_decorative.tiles.name=Tiles
 tile.aether.skyroot_decorative.tiles_small.name=Small Tiles
 tile.aether.skyroot_beam.name=Skyroot Beam
 tile.aether.dark_skyroot_planks.name=Greatroot Planks
-tile.aether.dark_skyroot_decorative.name=Tábuas decorativas de greatroot
+tile.aether.dark_skyroot_decorative.name=Tábuas de raiz-grandiosa decorativas
 tile.aether.dark_skyroot_decorative.base_planks.name=Base Planks
 tile.aether.dark_skyroot_decorative.base_beam.name=Base Beam
 tile.aether.dark_skyroot_decorative.highlight.name=Highlight
@@ -309,8 +309,8 @@ tile.aether.light_skyroot_decorative.floorboards.name=Floorboards
 tile.aether.light_skyroot_decorative.tiles.name=Tiles
 tile.aether.light_skyroot_decorative.tiles_small.name=Small Tiles
 tile.aether.light_skyroot_beam.name=Wisproot Beam
-tile.aether.quicksoil_glass_pane.name=Quicksoil Glass Pane / Vidraça de quicksoil (quicksand(areia movediça?)) Checar
-tile.aether.quicksoil_glass_pane_decorative.name=Decorative Quicksoil Glass Pane
+tile.aether.quicksoil_glass_pane.name=Vidraça de solo movediço
+tile.aether.quicksoil_glass_pane_decorative.name=Vidraça de solo movediço decorativa
 tile.aether.quicksoil_glass_pane_decorative.arkenium_frame.name=Arkenium Frame
 tile.aether.quicksoil_glass_pane_decorative.skyroot_frame.name=Skyroot Frame
 tile.aether.arkenium_frame.name=Arkenium Frame
@@ -326,14 +326,14 @@ tile.aether.crude_scatterglass_pane_decorative.name=Decorative Crude Scatterglas
 tile.aether.crude_scatterglass_pane_decorative.arkenium_frame.name=Arkenium Frame
 tile.aether.crude_scatterglass_pane_decorative.skyroot_frame.name=Skyroot Frame
 tile.aether.cloudwool_carpet.name=Cloudwool Carpet
-tile.aether.skyroot_bookshelf.name=Estante de livros de skyroot
-tile.aether.holystone_bookshelf.name=Holystone Bookshelf / Estante de livros de pedra sagrada
+tile.aether.skyroot_bookshelf.name=Estante de livros de raiz-celest
+tile.aether.holystone_bookshelf.name=Estante de livros de pedra sagrada
 tile.aether.outpost_campfire.name=Fogueira de posto avançado
 tile.aether.valkyrie_grass.sprout.name=Valkyrie Grass Sprout
 tile.aether.valkyrie_grass.full.name=Valkyrie Grass
-tile.aether.aether_teleporter.name=Aether Portal
-tile.aether.thera_dirt.dirt.name=Terra de thera
-tile.aether.thera_grass.normal.name=Grama de thera
+tile.aether.aether_teleporter.name=Portal do Aether
+tile.aether.thera_dirt.dirt.name=Terra de Thera
+tile.aether.thera_grass.normal.name=Grama de Thera
 tile.aether.ferrosite.name=Ferrosita
 tile.aether.rusted_ferrosite.name=Ferrosita enferrujada
 tile.aether.highlands_snow.name=Neve das highlands
@@ -1138,7 +1138,7 @@ edison.greet.respawn_not_introduced=Você realmente deveria se cuidar melhor, ch
 edison.greet.respawn=Você está bem? Você parecia bem detonado(a) ali embaixo.
 
 edison.greet.option.what=Que lugar é esse?
-edison.greet.option.died=I thought I was done for...
+edison.greet.option.died=Eu pensei que já era...
 
 edison.greet.option.fine=Estou bem.
 edison.greet.option.thanks=Obrigado(a), Edison.
@@ -1147,55 +1147,55 @@ edison.greet.option.okay_holiday_sale=Estou legal. Você tem um estoque especial
 
 edison.greet.start=Olá meu chapa, como está indo? Precisa de algo?
 
-edison.greet.option.sale=You got anything for sale?
-edison.greet.option.holiday_sale=Do you have special stock for this holiday season?
+edison.greet.option.sale=Tem algo a venda?
+edison.greet.option.holiday_sale=Você tem algo especial a venda nessa temporada?
 
-edison.greet.option.okay_goodbye=I think I'm okay. Goodbye.
-edison.greet.option.ready_goodbye=I think I'm ready. Bye, Edison.
-edison.greet.option.mind_goodbye=I'll keep that in mind. Goodbye.
+edison.greet.option.okay_goodbye=Acho que estou bem. Obrigado(a).
+edison.greet.option.ready_goodbye=Acho que stou pronto(a). Até mais, Edison.
+edison.greet.option.mind_goodbye=Vou lembrar-me disso. Até logo.
 
-edison.greet.expecting1=Of course! I’m being paid good money by our "mutual friend” to watch your back.
-edison.greet.expecting2=Wait, did he not explain our little arrangement? Typical...
-edison.greet.expecting3=Well then... What do I need to explain to you?
+edison.greet.expecting1=Mas é claro! Nosso "amigo mútuo" está me pagando uma boa grana para te proteger. 
+edison.greet.expecting2=Espera, ele não explicou o nosso pequeno acordo? Típico dele...
+edison.greet.expecting3=Bom... O que eu tenho que te explicar?
 
-edison.greet.option.no_we_talked=No we talked. You’re... Edison, right?
+edison.greet.option.no_we_talked=Nós já nos falamos antes. Você é... Edison, certo?
 
-edison.greet.who1=I’m Edison! International entrepreneur, salesman and master of persuasion!
-edison.greet.who2=But to you, due to our little agreement with "you know who”, I am also your contact in these strange lands.
-edison.greet.who3=Basically, that means I’ve got to look after you.
-edison.greet.who4=Now I’m a strong believer in knowledge being the best tool in this world. So in the interest of keeping you from, well, dying...
-edison.greet.who5=Do you have any more questions?
+edison.greet.who1=Me chamo Edison! Sou um empreendedor internacional, vendedor e mestre da persuasão!
+edison.greet.who2=Mas para você, devido ao nosso pequeno acordo com "você sabe quem", também sou o seu contato nessas terras estranhas.
+edison.greet.who3=Basicamente, isso significa que tenho que proteger você.
+edison.greet.who4=Eu acredito piamente no conhecimento e que ele é a melhor ferramenta deste mundo. Ele também pode te manter longe, bom, da morte...
+edison.greet.who5=Eai? Mais alguma pergunta?
 
-edison.greet.option.you_know_who="You know who?"
+edison.greet.option.you_know_who="Você sabe quem?"
 
-edison.greet.map1=Haha! Snarky one aren’t ya? Maybe I should’ve expected a bit of a wait.
-edison.greet.map2=Not exactly hard to find these places though. Would’ve thought you’d be dropped off nearby anyway.
+edison.greet.map1=Haha! Você é um espertinho(a), não é? Talvez eu devesse ter expectado uma espera mais longa. 
+edison.greet.map2=Não exatamente difícil de achar esse lugares. Achei que você sairia próximo daqui, de qualquer jeito.
 
-edison.greet.what1="This place?" King of vague questions aren’t you?
-edison.greet.what2=I would assume you knew at least a little about what you were getting into coming here, but I’ll need you to be a bit more specific than that.
-edison.greet.what3=Do you mean this building we’re standing in? Or the actual world around us?
+edison.greet.what1="This place?" King of vague questions aren’t you? / "Esse lugar?" Rei das perguntas vagas, não é?
+edison.greet.what2=Assumi que você sabia ao menos um pouco sobre aonde esteria se metendo ao vir para cá, mas vou precisar que seja mais específico do que isso.
+edison.greet.what3=Você quer dizer a construção na qual estamos? Ou o mundo à nossa volta?
 
-edison.greet.option.building=This building.
-edison.greet.option.world=This world.
+edison.greet.option.building=Este lugar.
+edison.greet.option.world=Este mundo.
 
-edison.greet.died1=So did I! When my employee dragged you in here I wasn’t sure you were gonna wake up.
+edison.greet.died1=Eu também! Quando meu servo te trouxe até aqui, não sabia se você ia acordar mais. 
 
-edison.greet.fine1=Well that was passive aggressive considering me and my men just saved your skin.
-edison.greet.fine2=You need anything before you head off?
+edison.greet.fine1=Bom, isso foi passivo-agressivo, considerando que eu e meus homens acabaram de salvar sua pele.
+edison.greet.fine2=Precisa de algo antes de partirmos?
 
-edison.greet.thanks1=Don’t mention it. We’ve all got a role to play here, mine’s to keep you safe.
-edison.greet.thanks2=You need anything or are you good to set off?
+edison.greet.thanks1=Não mencione isto. Todos nós temos um dever a fazer aqui, o meu é te manter seguro(a).
+edison.greet.thanks2=Vocè precisa de algo ou já podemos ir?
 
-edison.greet.sale=Sure thing, let’s take a look at my stock.
-edison.greet.holiday_sale=Hope you're feeling festive, friend! Take a peek at our exclusive stock for this holiday season.
+edison.greet.sale=Com certeza, vamos dar uma olhada no meu estoque.
+edison.greet.holiday_sale=Espero que esteja se sentindo festivo, colega! Dê uma olhada nas nossas ofertas exclusivas para essa temporada de festas.
 
-edison.greet.no_we_talked1=That’s right! International entrepreneur, salesman and master of persuasion!
-edison.greet.no_we_talked2=But to you, due to our little agreement with The Necromancer, I am also your contact in these strange lands.
-edison.greet.no_we_talked3=Basically that means I’ve got to look after you.
-edison.greet.no_we_talked4=Now I’m a strong believer in knowledge being the best tool in this world. So in the interest of keeping you from, well, dying...
-edison.greet.no_we_talked5=Do you have any more questions?
+edison.greet.no_we_talked1=Isso mesmo! Empreendedor internacional, vendedor e mestre da persuasão!
+edison.greet.no_we_talked2=Mas para você, devido ao nosso pequeno contrato com o Necromante, também sou seu contato nessas terras estranhas.
+edison.greet.no_we_talked3=Basicamente, isto significa que tenho o dever de manter um olho em você.
+edison.greet.no_we_talked4=Eu acredito piamente no conhecimento e que ele é a melhor ferramenta deste mundo. Ele também pode te manter longe, bom, da morte...
+edison.greet.no_we_talked5=Você tem mais alguma pergunta?
 
-edison.greet.you_know_who1=The Necromancer. You know - Mr. Tall, Dark and Creepy?
+edison.greet.you_know_who1=O Necromante. Você sabe, Sr. Alto, Trevoso e Assustador?
 edison.greet.you_know_who2=Him and I have been in contact quite regularly, and he’s paying me quite a lot of coin to ensure if you’re ever in a pinch you’ll be taken to a safe place.
 edison.greet.you_know_who3=Thinking about it though, he usually leaves a note in with his little "gifts” he hands out. Maybe take a look through your Guidebook for one.
 
